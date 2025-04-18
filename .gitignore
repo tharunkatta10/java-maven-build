@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
